@@ -5,7 +5,7 @@ Se deben generar 1000 archivos con 4 o más capas, de estos lo que se debe anali
 
 Para ser RAROS deben ser escasos, si su tamaño es superior en KiB deben los datos en conjunto general ser los que son escasos, entre más se acerquen al 0 en sus numeros decimales son los mas valiosos
 
-Aunque no lo crea todo esto tiene una respuesta en los numeros, se genero una dificultad y las matemáticas hicieron lo suyo de la creación de una colección en una muestra de 1000 39 son los que sobresalen a los demás es el juego asi funciona Bitcoin encontrar un numero en este caso es la busqueda del NFT realmente RARO.
+Aunque no lo crea todo esto tiene una respuesta en los numeros, se genero una dificultad y las matemáticas hicieron lo suyo de la creación de una colección en una muestra de 1000 solo 39 son los que sobresalen a los demás es el juego asi funciona Bitcoin encontrar un numero en este caso es la busqueda del NFT realmente RARO.
 
 Dejo la muestra en un archivo csv para su analisis, los NFT de esta muestra estaran pronto en OPEN SEA.  
 
