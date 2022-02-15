@@ -11,7 +11,7 @@ Dejo la muestra en un archivo csv para su analisis, los NFT de esta muestra esta
 
 Los REALMENTE RAROS de >19.0 KiB seran subastados, creo que valen algo los otros de peso de archivo de 18Kib tendran precio de 10 DAI en red polygon.
 
-Link de colección en
+Link de colección en https://opensea.io/collection/square-smiley-face
 
 
 Puede existir margen de error o algunos hash duplicados esto debido al generador de NFT o pocas capas, entre mayor capas mejor
