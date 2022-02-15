@@ -10,3 +10,5 @@ Aunque no lo crea todo esto tiene una respuesta en los numeros, se genero una di
 Dejo la muestra en un archivo csv para su analisis, los NFT de esta muestra estaran pronto en OPEN SEA.  
 
 Los REALMENTE RAROS de >19.0 KiB seran subastados, creo que valen algo los otros de peso de archivo de 18Kib tendran precio de 10 DAI en red polygon.
+
+Link de colección en
